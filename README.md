@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.ejehameh.com" target="blank">
+ <a href="https://www.ejehisrael.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ejeh ameh" />
  </a>
  <a href="https://linkedin.com/in/ejeh" target="_blank">
